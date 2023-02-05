@@ -77,3 +77,7 @@ Sen kalla på funktionen
 ```python
 rides = get_rides()
 ```
+
+## TODO
+
+- [ ] Fixa formatering av _åäö_ i JSON outputen

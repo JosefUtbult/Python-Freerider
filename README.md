@@ -60,3 +60,20 @@ Följande är resultatet från `get_rides()`
     }
 ]
 ```
+
+## Installation
+
+Installera moduler
+```shell
+pip install -r requirements.txt
+```
+
+Importera funktionen
+```python
+from freerider_parser import get_rides
+```
+
+Sen kalla på funktionen
+```python
+rides = get_rides()
+```
